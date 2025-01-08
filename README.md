@@ -11,10 +11,7 @@
 ***
 Awards:
 - 🏆 1st Place in the 2024 BYU Capstone Celebration Competition in Machine Learning
-- 🏆 1st Place in the 2024 BYU ACM YHack (Best Hackathon Competition in BYU) with a Benny Award
-- 🏆 1st Place in the 2023 BYU ITCSA Raspberry Pi Competition (Best Robotics Competition in BYU)
-- 🏆 1st Place in the 2022 BYU ACM YHack (Best Hackathon Competition in BYU)
-- 🏆 1st Place in the 2017 DIPA Internet of Things Hackathon Competition (Best IoT Hackathon Competition at South Korea)
+
 
 ***
 
@@ -22,7 +19,7 @@ Awards:
 ![My Skills](https://skillicons.dev/icons?i=python,js,ts,ruby,java,cpp,html,css,postgresql,mysql,aws,firebase,docker,react,nodejs,nextjs,tailwind,sass,rails,tensorflow,pytorch,supabase,git,github&perline=12)
 
 ### Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brightlightkim/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/minjoong-kim-64293921b)
 
 ### ☕️ Buy Me a Coffee
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brightlightkim)
