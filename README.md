@@ -66,7 +66,7 @@
 
 
 Check out my **3D modeling portfolio** here:  
-👉 [Minjoong's 3D Modeling Portfolio](https://github.com/kimpublic/minjoong_portfolio))
+👉 [Minjoong's 3D Modeling Portfolio](https://github.com/kimpublic/minjoong_portfolio)
 
 ***
 
