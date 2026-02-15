@@ -5,6 +5,8 @@
 - Currently working as a **Student Full-Stack Developer** on the **Student Experience Team** at **BYU OIT** since Aug 2025
 - Serving as **President** (Since Fall 2025) of the **Korean Business Student Association (KBSA)**
 
+Check out my **3D modeling portfolio** here:  
+👉 [Minjoong's 3D Modeling Portfolio](https://github.com/kimpublic/minjoong_portfolio)
 
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjoong)
@@ -63,10 +65,6 @@
 - Developed **Python-based chart generator leveraging librosa for onset detection and beat tracking, with density control, beat quantization, and deduplication algorithms**
 - 🎥 [Demo Video](https://youtu.be/aUvcEfScv1o?si=V4eaL5jYMlkTWYOk)
 - 💻 [GitHub Repo](https://github.com/brightlightkim/google_ai_hackathon?tab=readme-ov-file)
-
-
-Check out my **3D modeling portfolio** here:  
-👉 [Minjoong's 3D Modeling Portfolio](https://github.com/kimpublic/minjoong_portfolio)
 
 ***
 
