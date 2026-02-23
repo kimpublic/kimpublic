@@ -15,8 +15,8 @@
 ***
 
 ## 🏆 Awards
-- **1st Place** in **Most Creative First-Year Solution**, *2025 BYU Homecoming Hackathon* | BYU 2025 홈커밍 해커톤 최우수 창의상
-- **1st Place**, *2024 BYU YHack Hackathon* | BYU 2024 Y-Hack 해커톤 대상
+- **1st Place** in **Most Creative First-Year Solution**, *2025 BYU Homecoming Hackathon* BYU 2025 홈커밍 해커톤 최우수 창의상
+- **1st Place**, *2024 BYU YHack Hackathon* BYU 2024 Y-Hack 해커톤 대상
 
 ***
 
